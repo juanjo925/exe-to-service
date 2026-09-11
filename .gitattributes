@@ -1,0 +1,12 @@
+# See https://github.com/github/linguist
+# Do not edit manually
+# Default behavior
+src/**/*.rs linguist-detectable
+*.svg text
+public/**/*.html linguist-vendored
+*.map linguist-generated
+*.min.css linguist-generated  
+*.yaml linguist-detectable=false
+
+*.gif binary
+# eof 2e5a79c2
