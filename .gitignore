@@ -1,0 +1,5 @@
+**/*.rs.bk
+target/
+*.rs.bk
+pkg/
+www/pkg/
